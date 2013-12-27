@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloFragmentAnimation</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="fragment_test">Fragment Test v4</string>
+    <string name="fragment_test_high">Fragment Test app</string>
+    <string name="activity_test">Activity Test</string>
+
+</resources>
