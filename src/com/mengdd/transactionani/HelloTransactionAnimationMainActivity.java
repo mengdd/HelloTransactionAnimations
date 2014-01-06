@@ -13,7 +13,7 @@ import com.mengdd.transaction.activity.TestActivities;
 import com.mengdd.transaction.fragment.high.TestFragmentActivity;
 import com.mengdd.transaction.fragment.v4.TestFragmentV4Activity;
 
-public class MainActivity extends Activity {
+public class HelloTransactionAnimationMainActivity extends Activity {
 
 	private ListView mListView = null;
 	private static Sample[] mSamples = null;
@@ -33,7 +33,7 @@ public class MainActivity extends Activity {
 			@Override
 			public void onItemClick(AdapterView<?> parent, View view,
 					int position, long id) {
-				startActivity(new Intent(MainActivity.this,
+				startActivity(new Intent(HelloTransactionAnimationMainActivity.this,
 						mSamples[position].activityClass));
 			}
 		});
