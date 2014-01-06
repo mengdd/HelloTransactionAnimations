@@ -7,5 +7,6 @@
     <string name="fragment_test">Fragment Test v4</string>
     <string name="fragment_test_high">Fragment Test app</string>
     <string name="activity_test">Activity Test</string>
+    <string name="activity_test_left_fade">Activity Test Fade</string>
 
 </resources>

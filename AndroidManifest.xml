@@ -32,6 +32,10 @@
         </activity>
         <activity android:name="com.mengdd.transaction.fragment.high.TestFragmentActivity" >
         </activity>
+        <activity android:name="com.mengdd.transaction.activity.leftfade.FirstActivity" >
+        </activity>
+        <activity android:name="com.mengdd.transaction.activity.leftfade.SecondActivity" >
+        </activity>
     </application>
 
 </manifest>
